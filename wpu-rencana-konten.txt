@@ -3,6 +3,7 @@ Rencana Konten
 - video java
   *belajar
   *framework
+- struktur data
 - php framework
 - interview
 - vlogs
