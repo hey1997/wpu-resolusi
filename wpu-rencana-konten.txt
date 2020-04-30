@@ -3,7 +3,10 @@ Rencana Konten
 - video java
   *belajar
   *framework
+   ^ Vue
 - struktur data
 - php framework
+ * laravel
 - interview
 - vlogs
+- python
