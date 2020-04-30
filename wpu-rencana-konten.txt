@@ -3,9 +3,12 @@ Rencana Konten
 - video java
   *belajar
   *framework
-   ^ Angular
-   ^ React
+
+   ^ Vue
+   ^ react
+- struktur data
 - php framework
- * Laravel
+ * laravel
 - interview
 - vlogs
+- python
